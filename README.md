@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaartik7
-- 👀 I’m interested in Machine Learning and Data Science. I plan on delving deeper into fields of AI and its appilcation in sports DS.
-- 💞️ I’m looking to collaborate on Front end projects and data science research.
+- 👀 I’m interested in Machine Learning and Data Science. I plan on delving deeper into fields of Data Science and Ethics.
+- 💞️ I’m looking to collaborate on Data and ML related projects.
 - 📫 How to reach me - ikaartik4@gmail.com
 
 <!---
